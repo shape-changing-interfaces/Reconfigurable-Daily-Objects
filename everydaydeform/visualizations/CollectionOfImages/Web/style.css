@@ -1,0 +1,85 @@
+body 
+{
+    max-width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:"Arial", Sans-serif;
+}
+
+h1
+{
+    text-transform:uppercase;
+    color:red;
+    text-align: center;
+}
+
+h2
+{
+    text-transform:uppercase;
+    font-size:100%;
+    color:OrangeRed;
+}
+
+h3
+{
+    text-transform:uppercase;
+    font-size:95%;
+}
+
+p
+{
+    font-size:80%;
+}
+
+li 
+{
+    font-family:"Arial", Sans-serif;
+    font-size:80%;
+}
+
+ul
+{
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.nav
+{
+    list-style-type:none;
+    margin:0;
+    border:0
+    padding:0;
+    overflow:hidden;
+    display:block;
+}
+
+li.h
+{
+    margin:0;
+    border:0
+    padding:0;
+    float:left;
+    display:block;
+    width:100px;
+    text-align:center;
+}
+
+img
+{
+    border:0;
+    max-height: 100px;
+    max-width: 140px;
+}
+
+.left 
+{
+float:left;
+width:150px;
+clear:both;
+}
+
+.right 
+{
+float:right;
+width:550px;
+}
